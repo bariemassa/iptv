@@ -121,8 +121,6 @@ http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="",AMGTV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",ANAL
-http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/anal.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/T1VHfY5.jpg" tvg-country="US" tvg-url="" group-title="",Apple Sauce TV (1080p)
 https://nimble.dashstreams.net/onestudio/applesaucetv/playlist.m3u8
 #EXTINF:-1 tvg-id="Astro Awani" tvg-name="Astro Awani" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/dLzgBUj.png" tvg-country="MY" tvg-url="" group-title="",Astro Awani (540p)
@@ -675,8 +673,6 @@ https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/DkvWWbE.png" tvg-country="US" tvg-url="" group-title="",Hunt Channel (1080p)
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="XXX",Hustler TV
-http://188.35.9.26:2030/udp/047c
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040337.png" tvg-country="ID" tvg-url="" group-title="",I AM CHANNEL (576p)
 http://iamchannel.org:1935/tes/1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="iFILM English" tvg-language="English" tvg-logo="https://i.imgur.com/GgmXZRU.png" tvg-country="IR" tvg-url="" group-title="Movies",iFILM English
@@ -877,8 +873,6 @@ http://highvolume04.streampartner.nl:1935/nos_pais_24_7/smil:livestream.stream.s
 https://30a-tv.com/NothingScripted.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="",NRBTV (480p)
 https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",Nyx Media
-https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream1/chunklist_w805691612.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/9S4ZbPL.jpg" tvg-country="US" tvg-url="" group-title="",OAN Encore
 https://oneamericanews-roku-us.amagi.tv/hls/amagi_hls_data_oneameric-oneamericanews/CDN/512x288_875600/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/G6e7Hcl.png" tvg-country="US" tvg-url="" group-title="News",OANN One America News Network (720p)
@@ -927,8 +921,6 @@ https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
 https://nimble.dashstreams.net/onestudio/pce/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/iwd9Jxb.png" tvg-country="US" tvg-url="" group-title="",Plant-Based Network HD
 https://hls-cdn.tvstartup.net/barakyah-channel/live/pbtv/chunklist_w1880221002.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3f/PLAYBOY_TV.jpg" tvg-country="US" tvg-url="" group-title="XXX",Playboy TV
-http://187.188.147.165:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="",Po
 http://n1.klowdtv.net/live2/pop_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2014/09/pop-logo.jpg" tvg-country="US" tvg-url="" group-title="",Pop (1080p)
@@ -943,10 +935,6 @@ https://api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8
 http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/K36sd0M.png" tvg-country="US" tvg-url="" group-title="",Prime Time Drama (720p)
 https://nrpus.bozztv.com/36bay2/gusa-ptd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/private-tv-1.jpg" tvg-country="US" tvg-url="" group-title="XXX",Private TV
-http://87.207.71.147:4000/play/a03b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/private-tv-1.jpg" tvg-country="US" tvg-url="" group-title="XXX",Private TV
-http://source-streams.com:8081/buyasaponline/26022019/95
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/EhISpCd.png" tvg-country="US" tvg-url="" group-title="",PTL TV Network (720p)
 https://morningside-lh.akamaihd.net/i/jblive_1@303354/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/X63rCqD.png" tvg-country="US" tvg-url="" group-title="",Qello Concerts (1080p)
